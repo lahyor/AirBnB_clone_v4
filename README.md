@@ -15,6 +15,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
+* [New Contribution](#new-contribution)
 * [Authors](#authors)
 * [License](#license)
 
@@ -151,14 +152,20 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Bugs
-No known bugs at this time. 
+No known bugs at this time.
+
+## New Contribution
+How cool it is to request your own API
+How to modify an HTML element style
+How to get and update an HTML element content
+How to modify the DOM
+How to make a GET request with JQuery Ajax
+How to make a POST request with JQuery Ajax
+How to listen/bind to DOM events
+How to listen/bind to user events
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-
-Second part of Airbnb: Joann Vuong
+Otekaye Seun - [Github](https://github.com/lahyor) / [Twitter](https://twitter.com/Lahyor241)
+Mmaneme Emmanuel - [Github](https://github.com/Mmaneme-Emmanuel)
 ## License
 Public Domain. No copy write protection. 
